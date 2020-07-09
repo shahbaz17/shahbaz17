@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shahbaz.
+I'm **Shahbaz**.
 
 - 🔭 I’m currently working on creating L10n Tools
 - 🌱 I’m currently learning React, Node and MongoDB
