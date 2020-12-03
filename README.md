@@ -2,7 +2,7 @@
 
 I'm **Shahbaz**.
 
-- 🔭 I’m currently working on creating L10n Tools
+- 🔭 I’m currently working on creating contents around Authentication & Authorization, Security, Developer Community Development, and Engagement.
 - 🌱 I’m currently learning React, Node and MongoDB
 - 💬 Ask me about Public Speaking, Open Source, CFP writing and anything around Full Stack Devlopment.
 - 📫 How to reach me: [@mdsbzalam](https://www.twitter.com/mdsbzalam)
