@@ -3,12 +3,12 @@
 I'm **Shahbaz**.
 
 - 🔭 I’m currently working on creating contents around Authentication & Authorization, Security, Developer Community Development, and Engagement.
-- 🌱 I’m currently learning React, Node and MongoDB
-- 💬 Ask me about Public Speaking, Open Source, CFP writing and anything around Full Stack Devlopment.
-- 📫 How to reach me: [@mdsbzalam](https://www.twitter.com/mdsbzalam)
-- 🎥 Started making videos on Youtube to help young students learn Computer Science. [Subscribe](https://bit.ly/mdsbzalam-yt)
+- 🌱 I’m currently learning Web 2.0:React(Next.js), Node and MongoDB & Web 3.0: Ethereum
+- 💬 Ask me about Public Speaking, Open Source, CFP writing and anything around Authentication and AUthorization.
+- 📫 How to reach me: [@mdsbzalam](https://www.twitter.com/mdsbzalam) on Twitter, www.mdsbzalam.dev {WIP}
+- 🎥 Started making videos on Youtube to help young students learn Computer Science, Open Source Contribution and Auth. [Subscribe](https://bit.ly/mdsbzalam-yt)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I cook very delicious non-vegetarian dishes. Favorite is Biryani 😍
+- ⚡ Fun fact: I cook very delicious non-vegetarian halal dishes. Favorite is Biryani 😍
 
 <!--
 **shahbaz17/shahbaz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
