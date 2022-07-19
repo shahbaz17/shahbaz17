@@ -1,4 +1,4 @@
-### Hi I'm **Shahbaz** 👋.
+### Hi, I'm **Shahbaz** 👋
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=shahbaz17)](https://mdsbzalam.dev)
 [![Stars](https://img.shields.io/github/stars/shahbaz17)](https://mdsbzalam.dev)
