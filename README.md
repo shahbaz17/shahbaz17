@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm **Shahbaz** 👋.
 
-I'm **Shahbaz**.
+[![Profile Visits](https://komarev.com/ghpvc/?username=shahbaz17)](https://mdsbzalam.dev)
+[![Stars](https://img.shields.io/github/stars/shahbaz17)](https://mdsbzalam.dev)
+[![Twitter](https://img.shields.io/twitter/follow/mdsbzalam)](https://twitter.com/mdsbzalam)
+
 
 - 🔭 I’m currently working on creating contents around Authentication & Authorization, Security, Developer Community Development, and Engagement.
 - 🌱 I’m currently learning Web 2.0:React(Next.js), Node and MongoDB & Web 3.0: Ethereum
