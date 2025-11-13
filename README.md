@@ -17,6 +17,8 @@
 - 🧩 Check out my talks and writings at [mdsbzalam.dev](https://mdsbzalam.dev)
 - 📫 Reach me on [X (Twitter)](https://x.com/ishahbaz)
 - ⚡ Fun fact: I cook amazing non-vegetarian halal dishes — my Biryani is famous at friends/family gatherings 😍
+  - 🍛 Support my Biryani fund → [ishahbaz.eth](https://app.ens.domains/ishahbaz.eth) 😋
+
 
 <!--
 **shahbaz17/shahbaz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
